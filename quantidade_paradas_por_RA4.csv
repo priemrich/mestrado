@@ -1,0 +1,37 @@
+fid;ra_cira;ra_nome;ra_codigo;ra_path;ra_areakm2;shape_Leng;shape_Area;auxiliary_storage_labeling_positionx;auxiliary_storage_labeling_positiony;auxiliary_storage_labeling_lineanchorpercent;auxiliary_storage_labeling_lineanchorclipping;auxiliary_storage_labeling_lineanchortype;auxiliary_storage_labeling_lineanchortextpoint;fid_count;id_count;Name_count;description_count;timestamp_count;begin_count;end_count;altitudeMode_count;tessellate_count;extrude_count;visibility_count;drawOrder_count;icon_count;parada_count;descricao_count;situacao_count;estrutura_de_paragem_count;tipo_count
+1;1;PLANO PILOTO;RA-I;https://www.geoservicos.ide.df.gov.br/anexos/monografia/PLANO_PILOTO.pdf;43.720.138.183;0;0;182.635.241.701.223;825.944.922.600.825;;;;;562;562;562;562;562;562;562;562;562;562;562;0;562;562;562;562;562;562
+26;2;GAMA;RA-II;https://www.geoservicos.ide.df.gov.br/anexos/monografia/GAMA.pdf;27.605.341.381;0;0;;;;;;;260;260;260;260;260;260;260;260;260;260;260;0;260;260;260;260;260;260
+13;3;TAGUATINGA;RA-III;https://www.geoservicos.ide.df.gov.br/anexos/monografia/TAGUATINGA.pdf;6.304.456.278;0;0;;;;;;;296;296;296;296;296;296;296;296;296;296;296;0;296;296;296;296;296;296
+24;4;BRAZLÂNDIA;RA-IV;https://www.geoservicos.ide.df.gov.br/anexos/monografia/BRAZLANDIA.pdf;47.018.355.935;0;0;;;;;;;220;220;220;220;220;220;220;220;220;220;220;0;220;220;220;220;220;220
+2;5;SOBRADINHO;RA-V;https://www.geoservicos.ide.df.gov.br/anexos/monografia/SOBRADINHO.pdf;19.352.647.717;0;0;;;;;;;185;185;185;185;185;185;185;185;185;185;185;0;185;185;185;185;185;185
+22;6;PLANALTINA;RA-VI;https://www.geoservicos.ide.df.gov.br/anexos/monografia/PLANALTINA.pdf;150.941.488.927;0;0;;;;;;;440;440;440;440;440;440;440;440;440;440;440;0;440;440;440;440;440;440
+28;7;PARANOÁ;RA-VII;https://www.geoservicos.ide.df.gov.br/anexos/monografia/PARANOA.pdf;83.120.984.934;0;0;;;;;;;219;219;219;219;219;219;219;219;219;219;219;0;219;219;219;219;219;219
+12;8;NÚCLEO BANDEIRANTE;RA-VIII;https://www.geoservicos.ide.df.gov.br/anexos/monografia/NUCLEO_BANDEIRANTE.pdf;504.681.028;0;0;180.877.450.449.856;824.173.897.765.815;;;;;57;57;57;57;57;57;57;57;57;57;57;0;57;57;57;57;57;57
+34;9;CEILÂNDIA;RA-IX;https://www.geoservicos.ide.df.gov.br/anexos/monografia/CEILANDIA.pdf;1.926.569.424;0;0;;;;;;;507;507;507;507;507;507;507;507;507;507;507;0;507;507;507;507;507;507
+3;10;GUARÁ;RA-X;https://www.geoservicos.ide.df.gov.br/anexos/monografia/GUARA.pdf;2.522.334.954;0;0;;;;;;;132;132;132;132;132;132;132;132;132;132;132;0;132;132;132;132;132;132
+4;11;CRUZEIRO;RA-XI;https://www.geoservicos.ide.df.gov.br/anexos/monografia/CRUZEIRO.pdf;319.116.356;0;0;184.630.640.404.983;825.145.934.083.749;;;;;38;38;38;38;38;38;38;38;38;38;38;0;38;38;38;38;38;38
+30;12;SAMAMBAIA;RA-XII;https://www.geoservicos.ide.df.gov.br/anexos/monografia/SAMAMBAIA.pdf;9.999.228.671;0;0;;;;;;;307;307;307;307;307;307;307;307;307;307;307;0;307;307;307;307;307;307
+31;13;SANTA MARIA;RA-XIII;https://www.geoservicos.ide.df.gov.br/anexos/monografia/SANTA_MARIA.pdf;13.158.309.301;0;0;;;;;;;253;253;253;253;253;253;253;253;253;253;253;0;253;253;253;253;253;253
+32;14;SÃO SEBASTIÃO;RA-XIV;https://www.geoservicos.ide.df.gov.br/anexos/monografia/SAO_SEBASTIAO.pdf;26.270.516.853;0;0;;;;;;;144;144;144;144;144;144;144;144;144;144;144;0;144;144;144;144;144;144
+29;15;RECANTO DAS EMAS;RA-XV;https://www.geoservicos.ide.df.gov.br/anexos/monografia/RECANTO_DAS_EMAS.pdf;9.310.637.496;0;0;;;;;;;176;176;176;176;176;176;176;176;176;176;176;0;176;176;176;176;176;176
+9;16;LAGO SUL;RA-XVI;https://www.geoservicos.ide.df.gov.br/anexos/monografia/LAGO_SUL.pdf;7.604.873.024;0;0;18.949.567.372.452;824.244.075.909.395;;;;;161;161;161;161;161;161;161;161;161;161;161;0;161;161;161;161;161;161
+5;17;RIACHO FUNDO;RA-XVII;https://www.geoservicos.ide.df.gov.br/anexos/monografia/RIACHO_FUNDO.pdf;1.778.111.505;0;0;;;;;;;33;33;33;33;33;33;33;33;33;33;33;0;33;33;33;33;33;33
+10;18;LAGO NORTE;RA-XVIII;https://www.geoservicos.ide.df.gov.br/anexos/monografia/LAGO_NORTE.pdf;7.549.171.894;0;0;;;;;;;110;110;110;110;110;110;110;110;110;110;110;0;110;110;110;110;110;110
+6;19;CANDANGOLÂNDIA;RA-XIX;https://www.geoservicos.ide.df.gov.br/anexos/monografia/CANDANGOLANDIA.pdf;66.018.644;0;0;183.649.967.373.858;824.372.343.241.971;;;;;31;31;31;31;31;31;31;31;31;31;31;0;31;31;31;31;31;31
+14;20;ÁGUAS CLARAS;RA-XX;https://www.geoservicos.ide.df.gov.br/anexos/monografia/AGUAS_CLARAS.pdf;918.656.404;0;0;;;;;;;41;41;41;41;41;41;41;41;41;41;41;0;41;41;41;41;41;41
+7;21;RIACHO FUNDO II;RA-XXI;https://www.geoservicos.ide.df.gov.br/anexos/monografia/RIACHO_FUNDO_II.pdf;3.846.715.548;0;0;;;;;;;122;122;122;122;122;122;122;122;122;122;122;0;122;122;122;122;122;122
+15;22;SUDOESTE/OCTOGONAL;RA-XXII;https://www.geoservicos.ide.df.gov.br/anexos/monografia/SUDOESTE_OCTOGONAL.pdf;646.743.657;0;0;186.305.551.192.305;825.053.216.998.427;;;;;64;64;64;64;64;64;64;64;64;64;64;0;64;64;64;64;64;64
+16;23;VARJÃO;RA-XXIII;https://www.geoservicos.ide.df.gov.br/anexos/monografia/VARJAO.pdf;162.943.684;0;0;189.683.690.272.781;826.123.839.151.354;;;;;16;16;16;16;16;16;16;16;16;16;16;0;16;16;16;16;16;16
+8;24;PARK WAY;RA-XXIV;https://www.geoservicos.ide.df.gov.br/anexos/monografia/PARK_WAY.pdf;11.840.556.868;0;0;;;;;;;141;141;141;141;141;141;141;141;141;141;141;0;141;141;141;141;141;141
+17;25;SCIA;RA-XXV;https://www.geoservicos.ide.df.gov.br/anexos/monografia/SCIA.pdf;738.658.677;0;0;177.445.244.486.552;825.270.802.973.751;;;;;51;51;51;51;51;51;51;51;51;51;51;0;51;51;51;51;51;51
+33;26;SOBRADINHO II;RA-XXVI;https://www.geoservicos.ide.df.gov.br/anexos/monografia/SOBRADINHO_II.pdf;18.135.209.354;0;0;185.691.177.023.993;827.167.201.223.848;;;;;173;173;173;173;173;173;173;173;173;173;173;0;173;173;173;173;173;173
+27;27;JARDIM BOTÂNICO;RA-XXVII;https://www.geoservicos.ide.df.gov.br/anexos/monografia/JARDIM_BOTANICO.pdf;29.142.756.159;0;0;;;;;;;146;146;146;146;146;146;146;146;146;146;146;0;146;146;146;146;146;146
+20;28;ITAPOÃ;RA-XXVIII;https://www.geoservicos.ide.df.gov.br/anexos/monografia/ITAPOA.pdf;3.430.156.776;0;0;;;;;;;35;35;35;35;35;35;35;35;35;35;35;0;35;35;35;35;35;35
+18;29;SIA;RA-XXIX;https://www.geoservicos.ide.df.gov.br/anexos/monografia/SIA.pdf;290.508.958;0;0;;;;;;;144;144;144;144;144;144;144;144;144;144;144;0;144;144;144;144;144;144
+19;30;VICENTE PIRES;RA-XXX;https://www.geoservicos.ide.df.gov.br/anexos/monografia/VICENTE_PIRES.pdf;4.287.803.559;0;0;;;;;;;161;161;161;161;161;161;161;161;161;161;161;0;161;161;161;161;161;161
+25;31;FERCAL;RA-XXXI;https://www.geoservicos.ide.df.gov.br/anexos/monografia/FERCAL.pdf;15.438.003.353;0;0;;;;;;;52;52;52;52;52;52;52;52;52;52;52;0;52;52;52;52;52;52
+35;32;SOL NASCENTE E POR DO SOL;RA-XXXII;https://www.geoservicos.ide.df.gov.br/anexos/monografia/SOL_NASCENTE_POR_DO_SOL.pdf;4.049.166.396;0;0;;;;;;;65;65;65;65;65;65;65;65;65;65;65;0;65;65;65;65;65;65
+21;33;ARNIQUEIRA;RA-XXXIII;https://www.geoservicos.ide.df.gov.br/anexos/monografia/ARNIQUEIRA.pdf;1.335.849.745;0;0;;;;;;;73;73;73;73;73;73;73;73;73;73;73;0;73;73;73;73;73;73
+11;34;ARAPOANGA;RA-XXXIV;https://www.geoservicos.ide.df.gov.br/anexos/monografia/ARAPOANGA.pdf;2.198.581.644;0;0;;;;;;;30;30;30;30;30;30;30;30;30;30;30;0;30;30;30;30;30;30
+23;35;AGUA QUENTE;RA-XXXV;https://www.geoservicos.ide.df.gov.br/anexos/monografia/AGUA_QUENTE.pdf;95.121.341;0;0;;;;;;;11;11;11;11;11;11;11;11;11;11;11;0;11;11;11;11;11;11
+;;;;;;;;;;;;;;5456;;;;;;;;;;;;;;;;;
